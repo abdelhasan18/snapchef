@@ -22,4 +22,5 @@ Follow below steps:
    python -m pip install "tensorflow<2.11"
    pip install cv2 matplotlib numpy==1.26.4 pandas
 
-All dependencies should be sorted at this point in time, make sure the selected kernel in the top-left of the screen in jupyter lab matches the name set in step 7
+All dependencies should be sorted at this point in time, make sure the selected kernel in the top-left of the screen in jupyter lab matches the name set in step 7.
+Change the mode of this README from Preview to Code to make it more legible.
